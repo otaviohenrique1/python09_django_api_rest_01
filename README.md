@@ -6,6 +6,7 @@ Projeto do curso "API com Django 3 Django Rest Framework" da Alura
 
 - [Python](https://www.python.org/)
 - [Django](https://www.djangoproject.com/)
+- [Django Rest Framework](https://www.django-rest-framework.org/)
 
 ## Comandos
 
@@ -29,6 +30,8 @@ Projeto do curso "API com Django 3 Django Rest Framework" da Alura
 - pip install django
 - pip install python-dotenv
 - pip install virtualenv
+- pip install djangorestframework
+- pip install markdown
 
 ## Exibir pacotes instalados
 
